@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**e-coders/e-coders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**e-coders/e-coders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
