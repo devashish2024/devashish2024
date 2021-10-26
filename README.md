@@ -13,3 +13,17 @@ Shoutout to:
 <a href="https://github.com/somePythonProgrammer" target="blank_">somePythonProgrammer</a>
 <br>
 <a href="https://github.com/Super45Coder" target="blank_">Super45Coder</a>
+
+# Projects & Orgs
+
+## Orgs
+Owner of @E-CodersOfficial<br>
+Curator of @Educational-Websites<br>
+
+## Projects
+E-CoderOofficial/E-CodersOfficial.github.io<br>
+LexkingOfficial/lexkingofficial.github.io<br>
+Educational-Websites/PythonTutorials<br>
+Educational-Websites/PythonTutorialsPDFs<br>
+Educational-Websites/educational-websites.github.io<br>
+And a lot more, In different orgs.
