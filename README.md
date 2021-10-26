@@ -7,6 +7,7 @@ Welcome to my profile on github!! My most of projects are open-source and availa
 ## Orgs
 Owner of @E-CodersOfficial<br>
 Curator of @Educational-Websites<br>
+Developer of @LexkingOfficial<br>
 
 ## Projects
 <a href="https://github.com/e-coder/Website" target="_blank">E-Coders/Website (deprecated)<br></a>
