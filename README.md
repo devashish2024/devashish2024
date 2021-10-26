@@ -21,9 +21,10 @@ Owner of @E-CodersOfficial<br>
 Curator of @Educational-Websites<br>
 
 ## Projects
-E-CoderOofficial/E-CodersOfficial.github.io<br>
-LexkingOfficial/lexkingofficial.github.io<br>
-Educational-Websites/PythonTutorials<br>
-Educational-Websites/PythonTutorialsPDFs<br>
-Educational-Websites/educational-websites.github.io<br>
+<a href="https://github.com/e-coder/Website" target="_blank">E-Coders/Website (deprecated)<br></a>
+<a href="https://github.com/e-codersofficial/e-codersofficial.github.io" target="_blank">E-CoderOfficial/E-CodersOfficial.github.io<br></a>
+<a href="https://github.com/lexkingofficial/lexkingofficial.github.io" target="_blank">LexkingOfficial/lexkingofficial.github.io<br></a>
+<a href="https://github.com/educational-websites/PythonTutorials" target="_blank">Educational-Websites/PythonTutorials<br></a>
+<a href="https://github.com/educational-websites/PythonTutorialsPDFs" target="_blank">Educational-Websites/PythonTutorialsPDFs<br></a>
+<a href="https://github.com/educational-websites/educational-websites.github.io" target="_blank">Educational-Websites/educational-websites.github.io<br></a>
 And a lot more, In different orgs.
