@@ -1,4 +1,4 @@
-<p align="center">### Hi there 👋</p>
+### <p align="center">Hi there 👋</p>
 
 **e-coders/e-coders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
