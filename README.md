@@ -5,11 +5,13 @@
 
 <p align="center">Here are The Programming langauges I Know:</p>
 
-- <p align="center">HTML ...</p>
-- <p align="center">CSS ...</p>
-- <p align="center">JS ...</p>
-- <p align="center">Python ...</p>
-- <p align="center">Scratch ...</p>
+<p align="center">
+- HTML ...
+- CSS ...
+- JS ...
+- Python ...
+- Scratch ...
+</p>
 <p align="center">
 [![Card](https://github.com/e-coders/e-coders/blob/e73eee0c209d1b40ad6fc459bce14ff9d28171be/card.svg)](https://github.com/e-coders/e-coders/blob/e73eee0c209d1b40ad6fc459bce14ff9d28171be/card.svg)
 </p>
