@@ -1,31 +1,9 @@
-# Hi there
-Welcome to my profile on github!! My most of projects are open-source and available on github. You can use them whenever you would need!!<br>
-**Not only Codes, Also teaches!! Learn today, Build a Brighter tommorow* - [E - Coders](https://www.youtube.com/channel/UCfTTIgSYOwY3gmCI7YhisEA)<br>
+<h1 align="center">Hi 👋, I'm Aasheesh Agarwal!</h1>
+<h3 align="center">The truth programmer & tutor</h3>
 
-# Projects & Orgs
+<img src="https://komarev.com/ghpvc/?username=e-coders&label=Profile%20views&color=00e8c1&style=flat" alt="somepythonprogrammer" align="center"/> </p>
 
-## Orgs
-Owner of <a href="https://github.com/e-codersofficial" target="_blank">@E-CodersOfficial</a><br>
-Curator of <a href="https://github.com/educational-websites" target="_blank">@Educational-Websites</a><br>
-Developer of <a href="https://github.com/lexkingofficial" target="_blank">@LexkingOfficial</a><br>
+- 🔭 I’m currently working on **my site** and **Lexking Official site**.
 
-## Projects
-<a href="https://github.com/e-coder/Website" target="_blank">E-Coders/Website (deprecated)<br></a>
-<a href="https://github.com/e-codersofficial/e-codersofficial.github.io" target="_blank">E-CoderOfficial/E-CodersOfficial.github.io<br></a>
-<a href="https://github.com/lexkingofficial/lexkingofficial.github.io" target="_blank">LexkingOfficial/lexkingofficial.github.io<br></a>
-<a href="https://github.com/educational-websites/PythonTutorials" target="_blank">Educational-Websites/PythonTutorials<br></a>
-<a href="https://github.com/educational-websites/PythonTutorialsPDFs" target="_blank">Educational-Websites/PythonTutorialsPDFs<br></a>
-<a href="https://github.com/educational-websites/educational-websites.github.io" target="_blank">Educational-Websites/educational-websites.github.io<br></a>
-And a lot more, In different orgs.
-
-[![Card](https://github.com/e-coders/e-coders/blob/e73eee0c209d1b40ad6fc459bce14ff9d28171be/card.svg)](https://github.com/e-coders/e-coders/blob/e73eee0c209d1b40ad6fc459bce14ff9d28171be/card.svg)
-
-Shoutout to:
-<br>
-<a href="https://github.com/Genius398" target="blank_">Genius398</a>
-<br>
-<a href="https://github.com/Sreehari521" target="blank_">Sreehari521</a>
-<br>
-<a href="https://github.com/somePythonProgrammer" target="blank_">somePythonProgrammer</a>
-<br>
-<a href="https://github.com/Super45Coder" target="blank_">Super45Coder</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p
