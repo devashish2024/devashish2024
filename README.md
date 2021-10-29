@@ -13,4 +13,4 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">Youtube: E - Coders ( https://www.youtube.com/channel/UCfTTIgSYOwY3gmCI7YhisEA )<br>Mail: code.with.aasheesh@gmail.com<br>Scratch: @NorthenSuperCoders</p>
 
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" align="center">
+<center><img src="https://forthebadge.com/images/badges/built-with-love.svg" align="center"></center>
