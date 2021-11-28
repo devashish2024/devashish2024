@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aasheesh Agarwal!</h1>
 <h3 align="center">The truth programmer & tutor</h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=e-coders&label=Profile%20views&color=00e8c1&style=flat" alt="somepythonprogrammer" align="center"/> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=e-coders&label=Profile%20views&color=00e8c1&style=flat" alt="e-coders" align="center"/> </p>
 
 <p align="center">
 🔭 I’m currently working on **my site** and **Lexking Official site**.
