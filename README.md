@@ -1,16 +1,20 @@
-<h1 align="center">Hi 👋, I'm Aasheesh Agarwal!</h1>
-<h3 align="center">The truth programmer & tutor</h3>
+# Hey there!
+<img src="https://komarev.com/ghpvc/?username=e-coders&label=Profile%20views&color=00e8c1&style=flat" alt="e-coders" align="center"/>
+<br>
+Its aasheesh agarwal here!
+<br>
+### The truth programmer & tutor
+Even you want to learn coding, I am a little kid tutor, teach Perfectly to all you. Here's my youtube channel link! [E - Coders](https://www.youtube.com/channel/UCfTTIgSYOwY3gmCI7YhisEA)<br>
+May be explored my channel. Thanks!<br>
+Here are some my nice records:
+* A little kid, teach scratch, html, css, js, and Python
+* 10 Years Old kid programmes
+* 69 Words Per Minute Type Speed
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=e-coders&label=Profile%20views&color=00e8c1&style=flat" alt="e-coders" align="center"/> </p>
+Have you even listened about my book? It is currently in progress to be published to e-books store like Amazon. But is currently in progress.
 
-<p align="center">
-🔭 I’m currently working on **my site** and **Lexking Official site**.
-</p>
+Some Useful Links:
+* [Youtube](https://www.youtube.com/channel/UCfTTIgSYOwY3gmCI7YhisEA)
+* [Twitter](https://www.twitter.com/ECodersOfficial)
+* [Scratch](https://www.scratch.mit.edu/users/NorthenSuperCoders)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">Youtube: E - Coders ( https://www.youtube.com/channel/UCfTTIgSYOwY3gmCI7YhisEA )<br>Mail: code.with.aasheesh@gmail.com<br>Scratch: @NorthenSuperCoders</p>
-
-<p align="center"><img src="https://forthebadge.com/images/badges/built-with-love.svg" align="center"></p>
