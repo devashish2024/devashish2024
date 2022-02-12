@@ -13,8 +13,8 @@ Its aasheesh, your friend!<br>
 
 | Book Name & Hyper Link | Price |
 | --- | ----------- |
-| <a href="" target="_blank">कविता संग्रह गोविंद गुप्‍ता</a> | ₹59.00 |
-| <a href="" target="_blank">	A Ashish's Guide to GREAT PYTHON DEVELOPMENT</a> | ₹249.00  |
+| <a href="https://play.google.com/store/books/details?id=jilcEAAAQBAJ" target="_blank">कविता संग्रह गोविंद गुप्‍ता</a> | ₹59.00 |
+| <a href="https://play.google.com/store/books/details?id=kJJWEAAAQBAJ" target="_blank">	A Ashish's Guide to GREAT PYTHON DEVELOPMENT</a> | ₹249.00  |
 
 <h2>Social</h2>
 Twitter: @ECodersOfficial<br>YouTube: E - Coders<br>Scratch: @NorthenSuperCoders<br>Facebook: Ashish Agarwal
