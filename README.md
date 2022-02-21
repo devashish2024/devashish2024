@@ -1,4 +1,5 @@
 <h1>Hi folk 👋</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=e-coders&count_private=true&show_icons=true&theme=nord">
 <img src="https://komarev.com/ghpvc/?username=e-coders&label=Profile%20views&color=00e8c1&style=flat" alt="e-coders" align="center"/>
 Its aasheesh, your friend!<br>
 <br>
@@ -8,6 +9,13 @@ Its aasheesh, your friend!<br>
 * Written a book of the UP's Maha Kavi (Story Writer) - Got famous in Lakhimpur while living in Aligarh! See the book at <a href="https://play.google.com/store/books/details?id=jilcEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=jilcEAAAQBAJ</a>
 * My first book (written by myself with my own knowledge) - Buy it at <a href="https://play.google.com/store/books/details?id=kJJWEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=kJJWEAAAQBAJ</a>
 * HTML, CSS, JS, Java, Python, PHP, Markdown, Batch, Shell, Command-Line, IT Solutions, Web Development, Git, Game Development, Developer, Full-Stack
+
+<h2>Top Repos</h2>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=educatyeducate&repo=CodeEditor&show_owner=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=ButtonMaker&show_owner=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=blogmaker&show_owner=true">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=covidtracker&show_owner=true">
+
 
 <h2>Books</h2>
 
