@@ -11,10 +11,10 @@ Its aasheesh, your friend!<br>
 * HTML, CSS, JS, Java, Python, PHP, Markdown, Batch, Shell, Command-Line, IT Solutions, Web Development, Git, Game Development, Developer, Full-Stack
 
 <h2>Top Repos</h2>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=educatyeducate&repo=CodeEditor&show_owner=true">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=ButtonMaker&show_owner=true">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=blogmaker&show_owner=true">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=covidtracker&show_owner=true">
+<img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/pin/?username=educatyeducate&repo=CodeEditor&show_owner=true">
+<img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=ButtonMaker&show_owner=true">
+<img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=blogmaker&show_owner=true">
+<img style="display:inline-block;" src="https://github-readme-stats.vercel.app/api/pin/?username=e-coders&repo=covidtracker&show_owner=true">
 
 
 <h2>Books</h2>
