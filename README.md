@@ -37,7 +37,7 @@ Scratch: <a href="https://scratch.mit.edu/users/NorthenSuperCoders/" target="_bl
 <br>
 E-mail: <a href="mailto:code.with.aasheesh@gmail.com">code.with.aasheesh@gmail.com</a>
 
-<h2>FAQS</h2.
+  <h2>FAQS</h2>
 **Where have I triped to?** I've triped to many places in India like Agra (taj-mahal), Bihar, Mathura, Ayoydhya, Farrukabad, Delhi, India Gate, etc. There's may be lot, Here they are missing.
 <br>
 **How you got fast typing speed?** Because I've continously used my same laptop's built-in keyboard for a long-period, my hands were set on it. I can type anything while my eyes are off if needed!!
