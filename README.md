@@ -28,4 +28,10 @@ Its aasheesh, your friend!<br>
 If you plan to buy one of my books, buy my latest Great Turtle Guide. "A guide taking you to the next level."
 
 <h2>Social</h2>
-Twitter: @ECodersOfficial<br>YouTube: E - Coders<br>Scratch: @NorthenSuperCoders<br>Facebook: Ashish Agarwal
+Twitter: <a href="https://twitter.com/ECodersOfficial" target="_blank">@ECodersOfficial</a>
+<br>
+YouTube: <a href="https://www.youtube.com/channel/UCfTTIgSYOwY3gmCI7YhisEA?sub_confirmation=1" target="_blank">E - Coders</a>
+<br>
+Scratch: <a href="https://scratch.mit.edu/users/NorthenSuperCoders/" target="_blank">@NorthenSuperCoders</a>
+<br>
+E-mail: <a href="mailto:code.with.aasheesh@gmail.com">code.with.aasheesh@gmail.com</a>
