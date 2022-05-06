@@ -26,7 +26,7 @@ Its aasheesh, your friend!<br>
 | <a href="https://play.google.com/store/books/details?id=ddlqEAAAQBAJ" target="_blank">Great Turtle Guide - The mastering way</a> | ₹247.80 |
 
 If you plan to buy one of my books, buy my latest Great Turtle Guide. "A guide taking you to the next level."<br><Br>
-Yes! These above books are really written by me little kid yet brilliant. I've been worked 10-days daily for 3 hours with goal to complete 10 to 25 pages daily and complete my each book in 10 to 5 days. Currently, all my books took 10 days each to complete. My typing speed is "typist", as I'm expierenced on my keyboard 1 year.
+Yes! These above books are really written by me little kid yet brilliant. I've been worked 10-days daily for 3 hours with goal to complete 10 to 25 pages daily and complete my each book in 10 to 5 days. Currently, all my books took 10 days each to complete. My typing speed is "typist", as I'm expierenced on my keyboard 1 year. Don't hesistate to buy my books! The first book is the high-selling book and the last is the lowest-selling book, because it is new.
 
 <h2>Social</h2>
 Twitter: <a href="https://twitter.com/ECodersOfficial" target="_blank">@ECodersOfficial</a>
