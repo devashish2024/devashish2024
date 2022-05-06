@@ -25,5 +25,7 @@ Its aasheesh, your friend!<br>
 | <a href="https://play.google.com/store/books/details?id=kJJWEAAAQBAJ" target="_blank">	A Ashish's Guide to GREAT PYTHON DEVELOPMENT</a> | ₹249.00  |
 | <a href="https://play.google.com/store/books/details?id=ddlqEAAAQBAJ" target="_blank">Great Turtle Guide - The mastering way</a> | ₹247.80 |
 
+If you plan to buy one of my books, buy my latest Great Turtle Guide. "A guide taking you to the next level."
+
 <h2>Social</h2>
 Twitter: @ECodersOfficial<br>YouTube: E - Coders<br>Scratch: @NorthenSuperCoders<br>Facebook: Ashish Agarwal
