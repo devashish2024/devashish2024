@@ -4,7 +4,7 @@
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api?username=ashishagarwal2023&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishagarwal2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://stats-aa09oug4r-ashishagarwal2023.vercel.app/api/top-langs?username=ashishagarwal2023&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
 </div>
 
 ###
