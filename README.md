@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%23026ABA.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-10GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-integrated%204000-%23026ABA.svg?&style=for-the-badge&logo=intel&logoColor=white" /></p><p>
-     (Was originally equipped with 2GB RAM, HDD and Windows 7. I upgraded to SSD and 10GB RAM as I could afford. Please support my work!)
+     Dell Vostro 2520, originally equipped with 2GB RAM, HDD and Windows 7. I upgraded to SSD and 10GB RAM as I could afford. Mine only, a cheap laptop like 8 years old.)
 </p>
 
 <p  align="center">
