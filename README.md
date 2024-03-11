@@ -142,3 +142,12 @@
 <br>
 
  <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+
+
+
+<!--END_SECTION:activity-->
+
