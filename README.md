@@ -105,11 +105,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230827) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-2. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230738) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-3. 🚀 Published release [New Rewrite](https://github.com/ashishagarwal2023/WindowsActivator/releases/tag/new) in [ashishagarwal2023/WindowsActivator](https://github.com/ashishagarwal2023/WindowsActivator)
-4. ❌ Closed PR [#18](https://github.com/thetrouper/ClickCrystalsXYZ/pull/18) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-5. ❌ Closed PR [#1](https://github.com/SreehariTheProgrammer/SreehariTheProgrammer/pull/1) in [SreehariTheProgrammer/SreehariTheProgrammer](https://github.com/SreehariTheProgrammer/SreehariTheProgrammer)
+1. 🗣 Commented on [#71](https://github.com/rawandahmad698/PyChatGPT/issues/71#issuecomment-1989074307) in [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
+2. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230827) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+3. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230738) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+4. 🚀 Published release [New Rewrite](https://github.com/ashishagarwal2023/WindowsActivator/releases/tag/new) in [ashishagarwal2023/WindowsActivator](https://github.com/ashishagarwal2023/WindowsActivator)
+5. ❌ Closed PR [#18](https://github.com/thetrouper/ClickCrystalsXYZ/pull/18) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
