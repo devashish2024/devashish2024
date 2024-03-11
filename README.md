@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/rawandahmad698/PyChatGPT/issues/71#issuecomment-1989074307) in [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
-2. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230827) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-3. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230738) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-4. 🚀 Published release [New Rewrite](https://github.com/ashishagarwal2023/WindowsActivator/releases/tag/new) in [ashishagarwal2023/WindowsActivator](https://github.com/ashishagarwal2023/WindowsActivator)
-5. ❌ Closed PR [#18](https://github.com/thetrouper/ClickCrystalsXYZ/pull/18) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+1. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1989192639) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+2. ❗ Opened issue [#15](https://github.com/N3RDIUM/JARVIS/issues/15) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+3. 🗣 Commented on [#71](https://github.com/rawandahmad698/PyChatGPT/issues/71#issuecomment-1989074307) in [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
+4. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230827) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+5. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230738) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
