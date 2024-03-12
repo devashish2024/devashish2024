@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1989192639) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
-2. ❗ Opened issue [#15](https://github.com/N3RDIUM/JARVIS/issues/15) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
-3. 🗣 Commented on [#71](https://github.com/rawandahmad698/PyChatGPT/issues/71#issuecomment-1989074307) in [rawandahmad698/PyChatGPT](https://github.com/rawandahmad698/PyChatGPT)
-4. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230827) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-5. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-1987230738) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+1. 🚀 Published release [1.0.2](https://github.com/ashishagarwal2023/freegptjs/releases/tag/1.0.2) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+2. 🚀 Published release [1.0.1](https://github.com/ashishagarwal2023/freegptjs/releases/tag/1.0.1) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+3. 🚀 Published release [1.0.0](https://github.com/ashishagarwal2023/freegptjs/releases/tag/1.0.0) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+4. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1989192639) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+5. ❗ Opened issue [#15](https://github.com/N3RDIUM/JARVIS/issues/15) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
