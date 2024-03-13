@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.2](https://github.com/ashishagarwal2023/freegptjs/releases/tag/1.0.2) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
-2. 🚀 Published release [1.0.1](https://github.com/ashishagarwal2023/freegptjs/releases/tag/1.0.1) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
-3. 🚀 Published release [1.0.0](https://github.com/ashishagarwal2023/freegptjs/releases/tag/1.0.0) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
-4. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1989192639) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
-5. ❗ Opened issue [#15](https://github.com/N3RDIUM/JARVIS/issues/15) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+1. 🗣 Commented on [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7#issuecomment-1995379424) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
+2. ❗ Opened issue [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
+3. 🗣 Commented on [#5](https://github.com/N3RDIUM/PyTaskbar/issues/5#issuecomment-1995353188) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
+4. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1995340054) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+5. 🚀 Published release [1.0.2](https://github.com/ashishagarwal2023/freegptjs/releases/tag/1.0.2) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
