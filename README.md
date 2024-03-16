@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1999308027) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
-2. 🗣 Commented on [#28483](https://github.com/facebook/react/issues/28483#issuecomment-1995452176) in [facebook/react](https://github.com/facebook/react)
-3. 🗣 Commented on [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7#issuecomment-1995379424) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
-4. ❗ Opened issue [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
-5. 🗣 Commented on [#5](https://github.com/N3RDIUM/PyTaskbar/issues/5#issuecomment-1995353188) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
+1. 🚀 Published release [1.0.0](https://github.com/ashishagarwal2023/PyOpenAI/releases/tag/1.0.0) in [ashishagarwal2023/PyOpenAI](https://github.com/ashishagarwal2023/PyOpenAI)
+2. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1999308027) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+3. 🗣 Commented on [#28483](https://github.com/facebook/react/issues/28483#issuecomment-1995452176) in [facebook/react](https://github.com/facebook/react)
+4. 🗣 Commented on [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7#issuecomment-1995379424) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
+5. ❗ Opened issue [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
