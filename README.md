@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19#issuecomment-2002018245) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-2. 🔒 Closed issue [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-3. ❗ Opened issue [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
-4. 🚀 Published release [1.0.0](https://github.com/ashishagarwal2023/PyOpenAI/releases/tag/1.0.0) in [ashishagarwal2023/PyOpenAI](https://github.com/ashishagarwal2023/PyOpenAI)
-5. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-1999308027) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+1. 🗣 Commented on [#15](https://github.com/N3RDIUM/JARVIS/issues/15#issuecomment-2002428580) in [N3RDIUM/JARVIS](https://github.com/N3RDIUM/JARVIS)
+2. 🗣 Commented on [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19#issuecomment-2002018245) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+3. 🔒 Closed issue [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+4. ❗ Opened issue [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+5. 🚀 Published release [1.0.0](https://github.com/ashishagarwal2023/PyOpenAI/releases/tag/1.0.0) in [ashishagarwal2023/PyOpenAI](https://github.com/ashishagarwal2023/PyOpenAI)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
