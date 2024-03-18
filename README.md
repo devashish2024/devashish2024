@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/ashishagarwal2023/CutYourURL/pull/2) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
-2. 💪 Opened PR [#2](https://github.com/ashishagarwal2023/CutYourURL/pull/2) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
-3. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/CutYourURL/pull/1#issuecomment-2003084747) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
-4. ❌ Closed PR [#1](https://github.com/ashishagarwal2023/CutYourURL/pull/1) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
-5. 💪 Opened PR [#1](https://github.com/ashishagarwal2023/CutYourURL/pull/1) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
+1. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegpt/issues/1#issuecomment-2003998138) in [ashishagarwal2023/freegpt](https://github.com/ashishagarwal2023/freegpt)
+2. ❌ Closed PR [#2](https://github.com/ashishagarwal2023/CutYourURL/pull/2) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
+3. 💪 Opened PR [#2](https://github.com/ashishagarwal2023/CutYourURL/pull/2) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
+4. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/CutYourURL/pull/1#issuecomment-2003084747) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
+5. ❌ Closed PR [#1](https://github.com/ashishagarwal2023/CutYourURL/pull/1) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
