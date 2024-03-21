@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12875](https://github.com/is-a-dev/register/pull/12875#issuecomment-2011611163) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#12875](https://github.com/is-a-dev/register/pull/12875) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🎉 Merged PR [#1](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-ashishagarwal2023/pull/1) in [Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-ashishagarwal2023](https://github.com/Exp-Intro-to-GitHub-Flow-Cohort-1/series-intro-to-github-flow-ashishagarwal2023)
-4. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegpt/issues/1#issuecomment-2009330748) in [ashishagarwal2023/freegpt](https://github.com/ashishagarwal2023/freegpt)
-5. 🗣 Commented on [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19#issuecomment-2009329235) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+1. 🗣 Commented on [#17](https://github.com/thetrouper/ClickCrystalsXYZ/pull/17#issuecomment-2011775332) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+2. 🗣 Commented on [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19#issuecomment-2011774765) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+3. 🗣 Commented on [#19](https://github.com/thetrouper/ClickCrystalsXYZ/issues/19#issuecomment-2011772402) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+4. 🗣 Commented on [#12875](https://github.com/is-a-dev/register/pull/12875#issuecomment-2011611163) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#12875](https://github.com/is-a-dev/register/pull/12875) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
