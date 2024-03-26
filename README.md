@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/ashishagarwal2023/CutYourURL/issues/4) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
-2. 🗣 Commented on [#3](https://github.com/ashishagarwal2023/CutYourURL/issues/3#issuecomment-2016824221) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
-3. 🔒 Closed issue [#3](https://github.com/ashishagarwal2023/CutYourURL/issues/3) in [ashishagarwal2023/CutYourURL](https://github.com/ashishagarwal2023/CutYourURL)
-4. ❌ Closed PR [#12875](https://github.com/is-a-dev/register/pull/12875) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#12875](https://github.com/is-a-dev/register/pull/12875#issuecomment-2016469033) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. ❗ Opened issue [#26](https://github.com/DevLeonardoCommunity/community/issues/26) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
+2. ❗ Opened issue [#529](https://github.com/CommunityPro/support/issues/529) in [CommunityPro/support](https://github.com/CommunityPro/support)
+3. ❗ Opened issue [#147](https://github.com/OSCA-Kampala-Chapter/support/issues/147) in [OSCA-Kampala-Chapter/support](https://github.com/OSCA-Kampala-Chapter/support)
+4. ❗ Opened issue [#307](https://github.com/Py-Contributors/support/issues/307) in [Py-Contributors/support](https://github.com/Py-Contributors/support)
+5. ❗ Opened issue [#8759](https://github.com/EddieHubCommunity/support/issues/8759) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
