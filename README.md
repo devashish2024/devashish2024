@@ -106,11 +106,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/DevLeonardoCommunity/awesome-community-projects/pull/4) in [DevLeonardoCommunity/awesome-community-projects](https://github.com/DevLeonardoCommunity/awesome-community-projects)
-2. 🗣 Commented on [#26](https://github.com/DevLeonardoCommunity/community/issues/26#issuecomment-2021236153) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
-3. 🗣 Commented on [#26](https://github.com/DevLeonardoCommunity/community/issues/26#issuecomment-2021206804) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
-4. 🗣 Commented on [#26](https://github.com/DevLeonardoCommunity/community/issues/26#issuecomment-2021202573) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
-5. ❗ Opened issue [#26](https://github.com/DevLeonardoCommunity/community/issues/26) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
+1. 🗣 Commented on [#4](https://github.com/DevLeonardoCommunity/awesome-community-projects/pull/4#issuecomment-2022036236) in [DevLeonardoCommunity/awesome-community-projects](https://github.com/DevLeonardoCommunity/awesome-community-projects)
+2. 💪 Opened PR [#4](https://github.com/DevLeonardoCommunity/awesome-community-projects/pull/4) in [DevLeonardoCommunity/awesome-community-projects](https://github.com/DevLeonardoCommunity/awesome-community-projects)
+3. 🗣 Commented on [#26](https://github.com/DevLeonardoCommunity/community/issues/26#issuecomment-2021236153) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
+4. 🗣 Commented on [#26](https://github.com/DevLeonardoCommunity/community/issues/26#issuecomment-2021206804) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
+5. 🗣 Commented on [#26](https://github.com/DevLeonardoCommunity/community/issues/26#issuecomment-2021202573) in [DevLeonardoCommunity/community](https://github.com/DevLeonardoCommunity/community)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
