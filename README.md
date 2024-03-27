@@ -8,6 +8,8 @@
 <p align="center"><a href="https://ashishagarwal.is-a.dev">Portfolio↗️</a></p>
 <div align="center">
 
+![GitHub Widget](https://github-widgetbox.vercel.app/api/profile?username=ashishagarwal2023&data=followers,repositories,stars,commits&theme=darkmode)
+
 ![GitHub followers](https://img.shields.io/github/followers/ashishagarwal2023?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/ashishagarwal2023?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=ashishagarwal2023&style=for-the-badge&logo=github" alt="" />
 <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" />
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
@@ -153,3 +155,5 @@
 <br>
 
  <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
+
+![All tools, skills etc](https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,django,r,markdown,md,shell,bash,nodejs,sql,mongodb&includeNames=true&libraries=jquery,bootstrap,tailwind,django&tools=npm,git,docker,yarn,prettier,jupyter,nginx&software=linux,windows,vscode)
