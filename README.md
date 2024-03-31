@@ -108,11 +108,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#873](https://github.com/blueedgetechno/win11React/pull/873#issuecomment-2028622986) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 🗣 Commented on [#873](https://github.com/blueedgetechno/win11React/pull/873#issuecomment-2028622809) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-3. 💪 Opened PR [#873](https://github.com/blueedgetechno/win11React/pull/873) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-4. 🗣 Commented on [#864](https://github.com/blueedgetechno/win11React/issues/864#issuecomment-2028607805) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-5. ❗ Opened issue [#3](https://github.com/1upCommunity/1upCommunity.github.io/issues/3) in [1upCommunity/1upCommunity.github.io](https://github.com/1upCommunity/1upCommunity.github.io)
+1. ❗ Opened issue [#8926](https://github.com/js-org/js.org/issues/8926) in [js-org/js.org](https://github.com/js-org/js.org)
+2. 🗣 Commented on [#873](https://github.com/blueedgetechno/win11React/pull/873#issuecomment-2028622986) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+3. 🗣 Commented on [#873](https://github.com/blueedgetechno/win11React/pull/873#issuecomment-2028622809) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+4. 💪 Opened PR [#873](https://github.com/blueedgetechno/win11React/pull/873) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
+5. 🗣 Commented on [#864](https://github.com/blueedgetechno/win11React/issues/864#issuecomment-2028607805) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
