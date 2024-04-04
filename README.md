@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2032826505) in [js-org/js.org](https://github.com/js-org/js.org)
-2. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2031260245) in [js-org/js.org](https://github.com/js-org/js.org)
-3. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2031258800) in [js-org/js.org](https://github.com/js-org/js.org)
-4. 🗣 Commented on [#3](https://github.com/1upCommunity/1upCommunity.github.io/issues/3#issuecomment-2031257996) in [1upCommunity/1upCommunity.github.io](https://github.com/1upCommunity/1upCommunity.github.io)
-5. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2030345455) in [js-org/js.org](https://github.com/js-org/js.org)
+1. ❗ Opened issue [#615](https://github.com/GitHub-Campus-IITM/support/issues/615) in [GitHub-Campus-IITM/support](https://github.com/GitHub-Campus-IITM/support)
+2. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2032826505) in [js-org/js.org](https://github.com/js-org/js.org)
+3. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2031260245) in [js-org/js.org](https://github.com/js-org/js.org)
+4. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2031258800) in [js-org/js.org](https://github.com/js-org/js.org)
+5. 🗣 Commented on [#3](https://github.com/1upCommunity/1upCommunity.github.io/issues/3#issuecomment-2031257996) in [1upCommunity/1upCommunity.github.io](https://github.com/1upCommunity/1upCommunity.github.io)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
