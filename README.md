@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13206](https://github.com/is-a-dev/register/pull/13206) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#13204](https://github.com/is-a-dev/register/pull/13204) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. ❗ Opened issue [#615](https://github.com/GitHub-Campus-IITM/support/issues/615) in [GitHub-Campus-IITM/support](https://github.com/GitHub-Campus-IITM/support)
-4. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2032826505) in [js-org/js.org](https://github.com/js-org/js.org)
-5. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2031260245) in [js-org/js.org](https://github.com/js-org/js.org)
+1. 🗣 Commented on [#13206](https://github.com/is-a-dev/register/pull/13206#issuecomment-2039028119) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#13206](https://github.com/is-a-dev/register/pull/13206) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#13204](https://github.com/is-a-dev/register/pull/13204) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. ❗ Opened issue [#615](https://github.com/GitHub-Campus-IITM/support/issues/615) in [GitHub-Campus-IITM/support](https://github.com/GitHub-Campus-IITM/support)
+5. 🗣 Commented on [#8927](https://github.com/js-org/js.org/pull/8927#issuecomment-2032826505) in [js-org/js.org](https://github.com/js-org/js.org)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
