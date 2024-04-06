@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13216](https://github.com/is-a-dev/register/pull/13216) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 🗣 Commented on [#13206](https://github.com/is-a-dev/register/pull/13206#issuecomment-2039028119) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 💪 Opened PR [#13206](https://github.com/is-a-dev/register/pull/13206) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#13204](https://github.com/is-a-dev/register/pull/13204) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. ❗ Opened issue [#615](https://github.com/GitHub-Campus-IITM/support/issues/615) in [GitHub-Campus-IITM/support](https://github.com/GitHub-Campus-IITM/support)
+1. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1#issuecomment-2041102071) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+2. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1#issuecomment-2041101867) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+3. 💪 Opened PR [#13216](https://github.com/is-a-dev/register/pull/13216) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#13206](https://github.com/is-a-dev/register/pull/13206#issuecomment-2039028119) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#13206](https://github.com/is-a-dev/register/pull/13206) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
