@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/Explosion-Scratch/OnDrop/issues/39#issuecomment-2041342034) in [Explosion-Scratch/OnDrop](https://github.com/Explosion-Scratch/OnDrop)
-2. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1#issuecomment-2041102071) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
-3. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1#issuecomment-2041101867) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
-4. 💪 Opened PR [#13216](https://github.com/is-a-dev/register/pull/13216) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#13206](https://github.com/is-a-dev/register/pull/13206#issuecomment-2039028119) in [is-a-dev/register](https://github.com/is-a-dev/register)
+1. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1#issuecomment-2041515609) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+2. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1#issuecomment-2041515499) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+3. 🔒 Closed issue [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
+4. 🗣 Commented on [#39](https://github.com/Explosion-Scratch/OnDrop/issues/39#issuecomment-2041342034) in [Explosion-Scratch/OnDrop](https://github.com/Explosion-Scratch/OnDrop)
+5. 🗣 Commented on [#1](https://github.com/ashishagarwal2023/freegptjs/issues/1#issuecomment-2041102071) in [ashishagarwal2023/freegptjs](https://github.com/ashishagarwal2023/freegptjs)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
