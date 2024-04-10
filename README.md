@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6220](https://github.com/scratchfoundation/scratch-www/issues/6220#issuecomment-2048280108) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
-2. 🗣 Commented on [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7#issuecomment-2047152278) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
-3. 🗣 Commented on [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7#issuecomment-2046631354) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
-4. 🗣 Commented on [#8938](https://github.com/js-org/js.org/pull/8938#issuecomment-2045000720) in [js-org/js.org](https://github.com/js-org/js.org)
-5. 🗣 Commented on [#1471](https://github.com/anuraghazra/github-readme-stats/issues/1471#issuecomment-2042364798) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🗣 Commented on [#7371](https://github.com/scratchfoundation/scratch-www/issues/7371#issuecomment-2048386620) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+2. 💪 Opened PR [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+3. 🗣 Commented on [#6220](https://github.com/scratchfoundation/scratch-www/issues/6220#issuecomment-2048280108) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+4. 🗣 Commented on [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7#issuecomment-2047152278) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
+5. 🗣 Commented on [#7](https://github.com/N3RDIUM/PyTaskbar/issues/7#issuecomment-2046631354) in [N3RDIUM/PyTaskbar](https://github.com/N3RDIUM/PyTaskbar)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
