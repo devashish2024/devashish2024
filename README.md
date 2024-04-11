@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8255](https://github.com/scratchfoundation/scratch-www/issues/8255#issuecomment-2049144858) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
-2. ❗ Opened issue [#8255](https://github.com/scratchfoundation/scratch-www/issues/8255) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
-3. 🗣 Commented on [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252#issuecomment-2049114306) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
-4. ❌ Reopened PR [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
-5. 🗣 Commented on [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252#issuecomment-2049114138) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+1. 🚀 Published release [1.0.3](https://github.com/ashishagarwal2023/freegpt.js.org/releases/tag/1.0.3) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+2. 🗣 Commented on [#8255](https://github.com/scratchfoundation/scratch-www/issues/8255#issuecomment-2049144858) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+3. ❗ Opened issue [#8255](https://github.com/scratchfoundation/scratch-www/issues/8255) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+4. 🗣 Commented on [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252#issuecomment-2049114306) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+5. ❌ Reopened PR [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
