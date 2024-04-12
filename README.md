@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2#issuecomment-2051383618) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-2. 🗣 Commented on [#2](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2#issuecomment-2051381168) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-3. 🗣 Commented on [#2](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2#issuecomment-2051380586) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-4. 🚀 Published release [1.0.3](https://github.com/ashishagarwal2023/freegpt.js.org/releases/tag/1.0.3) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-5. 🗣 Commented on [#8255](https://github.com/scratchfoundation/scratch-www/issues/8255#issuecomment-2049144858) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+1. 🔒 Closed issue [#2](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+2. 🗣 Commented on [#2](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2#issuecomment-2051383618) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+3. 🗣 Commented on [#2](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2#issuecomment-2051381168) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+4. 🗣 Commented on [#2](https://github.com/ashishagarwal2023/freegpt.js.org/issues/2#issuecomment-2051380586) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+5. 🚀 Published release [1.0.3](https://github.com/ashishagarwal2023/freegpt.js.org/releases/tag/1.0.3) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
