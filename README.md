@@ -110,11 +110,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ashishagarwal2023/freegpt.js.org/pull/4) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-2. 💪 Opened PR [#4](https://github.com/ashishagarwal2023/freegpt.js.org/pull/4) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-3. 🎉 Merged PR [#3](https://github.com/ashishagarwal2023/freegpt.js.org/pull/3) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-4. 💪 Opened PR [#3](https://github.com/ashishagarwal2023/freegpt.js.org/pull/3) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
-5. 🗣 Commented on [#615](https://github.com/GitHub-Campus-IITM/support/issues/615#issuecomment-2051894179) in [GitHub-Campus-IITM/support](https://github.com/GitHub-Campus-IITM/support)
+1. ❌ Closed PR [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+2. 🗣 Commented on [#8252](https://github.com/scratchfoundation/scratch-www/pull/8252#issuecomment-2056988473) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+3. 🎉 Merged PR [#4](https://github.com/ashishagarwal2023/freegpt.js.org/pull/4) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+4. 💪 Opened PR [#4](https://github.com/ashishagarwal2023/freegpt.js.org/pull/4) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+5. 🎉 Merged PR [#3](https://github.com/ashishagarwal2023/freegpt.js.org/pull/3) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
