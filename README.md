@@ -150,5 +150,5 @@
 
  <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
 <p align="center">
- <img src="https://skillicons.dev/icons?i=js,html,css,babel,bootstrap,discord,gmail,github,git,mysql,nextjs,nodejs,npm,python,php,phpstorm,pycharm,r,windows,linux,ubuntu,svelte&perline=12" alt="Skills" />
+ <img src="https://skillicons.dev/icons?i=js,html,css,babel,bootstrap,discord,gmail,github,git,mysql,nextjs,nodejs,npm,python,php,phpstorm,pycharm,r,windows,linux,ubuntu,svelte,typescript&perline=12" alt="Skills" />
 </p>
