@@ -1,11 +1,3 @@
- <!----Tag line------>
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Web+Developer;Python;MySQL;R;Programmer;Back-end;Computer+Science+Student;Open-Source+Freelancer" alt="Headline" />
-    </div>
-
-
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://ashishagarwal2023.is-a.dev)
-
 <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Ashish Agarwal</h1>
 
 <p align="center"><a href="https://ashishagarwal.is-a.dev">Portfolio↗️</a></p>
@@ -157,5 +149,6 @@
 <br>
 
  <h3 align="center"> Show some ❤️ by starring some of the repositories! </h3>
-
-![All tools, skills etc](https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,django,r,markdown,md,shell,bash,nodejs,sql,mongodb&includeNames=true&libraries=jquery,bootstrap,tailwind,django&tools=npm,git,docker,yarn,prettier,jupyter,nginx&software=linux,windows,vscode)
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=js,html,css,babel,bootstrap,discord,gmail,github,git,mysql,nextjs,nodejs,npm,python,php,phpstorm,pycharm,r,windows,linux,ubuntu,svelte&perline=12" alt="Skills" />
+</p>
