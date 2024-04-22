@@ -1,3 +1,5 @@
+![Banner](https://github.com/ashishagarwal2023/ashishagarwal2023/blob/main/banner.png?raw=true)
+
 <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Ashish Agarwal</h1>
 
 <p align="center"><a href="https://ashishagarwal.is-a.dev">Portfolio↗️</a></p>
