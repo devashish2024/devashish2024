@@ -104,11 +104,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/N3RDIUM/dotfiles/issues/1#issuecomment-2069249530) in [N3RDIUM/dotfiles](https://github.com/N3RDIUM/dotfiles)
-2. 🗣 Commented on [#1](https://github.com/N3RDIUM/dotfiles/issues/1#issuecomment-2069248115) in [N3RDIUM/dotfiles](https://github.com/N3RDIUM/dotfiles)
-3. ❗ Opened issue [#1](https://github.com/N3RDIUM/dotfiles/issues/1) in [N3RDIUM/dotfiles](https://github.com/N3RDIUM/dotfiles)
-4. 🗣 Commented on [#565](https://github.com/cloudflare/next-on-pages/issues/565#issuecomment-2068088887) in [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages)
-5. 🗣 Commented on [#8255](https://github.com/scratchfoundation/scratch-www/issues/8255#issuecomment-2067062441) in [scratchfoundation/scratch-www](https://github.com/scratchfoundation/scratch-www)
+1. 🔒 Closed issue [#1](https://github.com/ashishagarwal2023/freegpt/issues/1) in [ashishagarwal2023/freegpt](https://github.com/ashishagarwal2023/freegpt)
+2. 🗣 Commented on [#1](https://github.com/N3RDIUM/dotfiles/issues/1#issuecomment-2069249530) in [N3RDIUM/dotfiles](https://github.com/N3RDIUM/dotfiles)
+3. 🗣 Commented on [#1](https://github.com/N3RDIUM/dotfiles/issues/1#issuecomment-2069248115) in [N3RDIUM/dotfiles](https://github.com/N3RDIUM/dotfiles)
+4. ❗ Opened issue [#1](https://github.com/N3RDIUM/dotfiles/issues/1) in [N3RDIUM/dotfiles](https://github.com/N3RDIUM/dotfiles)
+5. 🗣 Commented on [#565](https://github.com/cloudflare/next-on-pages/issues/565#issuecomment-2068088887) in [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
