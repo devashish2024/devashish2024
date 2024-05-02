@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/blueedgetechno/win11React/issues/864#issuecomment-2088144163) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
-2. 🗣 Commented on [#1360](https://github.com/smaranjitghose/awesome-portfolio-websites/issues/1360#issuecomment-2080476374) in [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
-3. ❗ Opened issue [#1360](https://github.com/smaranjitghose/awesome-portfolio-websites/issues/1360) in [smaranjitghose/awesome-portfolio-websites](https://github.com/smaranjitghose/awesome-portfolio-websites)
-4. 🔒 Closed issue [#1](https://github.com/ashishagarwal2023/freegpt/issues/1) in [ashishagarwal2023/freegpt](https://github.com/ashishagarwal2023/freegpt)
-5. 🗣 Commented on [#1](https://github.com/N3RDIUM/dotfiles/issues/1#issuecomment-2069248115) in [N3RDIUM/dotfiles](https://github.com/N3RDIUM/dotfiles)
+1. 🗣 Commented on [#20](https://github.com/thetrouper/ClickCrystalsXYZ/pull/20#issuecomment-2089821888) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+2. 🗣 Commented on [#20](https://github.com/thetrouper/ClickCrystalsXYZ/pull/20#issuecomment-2089802649) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+3. 🗣 Commented on [#20](https://github.com/thetrouper/ClickCrystalsXYZ/pull/20#issuecomment-2089800438) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+4. 🗣 Commented on [#20](https://github.com/thetrouper/ClickCrystalsXYZ/pull/20#issuecomment-2089799320) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+5. 🗣 Commented on [#864](https://github.com/blueedgetechno/win11React/issues/864#issuecomment-2088144163) in [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
