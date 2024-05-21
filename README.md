@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-2. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2121805077) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-3. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2119092409) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-4. 🗣 Commented on [#7482](https://github.com/nextauthjs/next-auth/issues/7482#issuecomment-2092834932) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🗣 Commented on [#20](https://github.com/thetrouper/ClickCrystalsXYZ/pull/20#issuecomment-2091435597) in [thetrouper/ClickCrystalsXYZ](https://github.com/thetrouper/ClickCrystalsXYZ)
+1. ❌ Closed PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+2. 💪 Opened PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+3. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2121805077) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
+4. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2119092409) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
+5. 🗣 Commented on [#7482](https://github.com/nextauthjs/next-auth/issues/7482#issuecomment-2092834932) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
