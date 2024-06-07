@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#593](https://github.com/all-contributors/all-contributors/pull/593#issuecomment-2124170286) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-2. ❌ Closed PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-3. 💪 Opened PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-4. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2121805077) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
-5. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2119092409) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
+1. 💪 Opened PR [#14332](https://github.com/is-a-dev/register/pull/14332) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 🗣 Commented on [#593](https://github.com/all-contributors/all-contributors/pull/593#issuecomment-2124170286) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+3. ❌ Closed PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+4. 💪 Opened PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+5. 🗣 Commented on [#1](https://github.com/CommunityPro/portfolio-react/issues/1#issuecomment-2121805077) in [CommunityPro/portfolio-react](https://github.com/CommunityPro/portfolio-react)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
