@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14341](https://github.com/is-a-dev/register/pull/14341) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#14332](https://github.com/is-a-dev/register/pull/14332) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#593](https://github.com/all-contributors/all-contributors/pull/593#issuecomment-2124170286) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-4. ❌ Closed PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
-5. 💪 Opened PR [#9840](https://github.com/Rapptz/discord.py/pull/9840) in [Rapptz/discord.py](https://github.com/Rapptz/discord.py)
+1. 🎉 Merged PR [#1](https://github.com/ashishagarwal2023/DiscordBot/pull/1) in [ashishagarwal2023/DiscordBot](https://github.com/ashishagarwal2023/DiscordBot)
+2. 💪 Opened PR [#1](https://github.com/ashishagarwal2023/DiscordBot/pull/1) in [ashishagarwal2023/DiscordBot](https://github.com/ashishagarwal2023/DiscordBot)
+3. 💪 Opened PR [#14341](https://github.com/is-a-dev/register/pull/14341) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 💪 Opened PR [#14332](https://github.com/is-a-dev/register/pull/14332) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#593](https://github.com/all-contributors/all-contributors/pull/593#issuecomment-2124170286) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
