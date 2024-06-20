@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ashishagarwal2023/DiscordBot/pull/1) in [ashishagarwal2023/DiscordBot](https://github.com/ashishagarwal2023/DiscordBot)
-2. 💪 Opened PR [#1](https://github.com/ashishagarwal2023/DiscordBot/pull/1) in [ashishagarwal2023/DiscordBot](https://github.com/ashishagarwal2023/DiscordBot)
-3. 💪 Opened PR [#14341](https://github.com/is-a-dev/register/pull/14341) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#14332](https://github.com/is-a-dev/register/pull/14332) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#593](https://github.com/all-contributors/all-contributors/pull/593#issuecomment-2124170286) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+1. 🗣 Commented on [#5](https://github.com/ashishagarwal2023/freegpt.js.org/issues/5#issuecomment-2179726235) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+2. 🔒 Closed issue [#5](https://github.com/ashishagarwal2023/freegpt.js.org/issues/5) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+3. 🗣 Commented on [#5](https://github.com/ashishagarwal2023/freegpt.js.org/issues/5#issuecomment-2179725479) in [ashishagarwal2023/freegpt.js.org](https://github.com/ashishagarwal2023/freegpt.js.org)
+4. 🎉 Merged PR [#1](https://github.com/ashishagarwal2023/DiscordBot/pull/1) in [ashishagarwal2023/DiscordBot](https://github.com/ashishagarwal2023/DiscordBot)
+5. 💪 Opened PR [#1](https://github.com/ashishagarwal2023/DiscordBot/pull/1) in [ashishagarwal2023/DiscordBot](https://github.com/ashishagarwal2023/DiscordBot)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
