@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/thetrouper/clickcrystals.xyz/pull/38#issuecomment-2304860464) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
-2. 🗣 Commented on [#2](https://github.com/anil-turk/FreeGPT-NodeJS-PHP/issues/2#issuecomment-2204068402) in [anil-turk/FreeGPT-NodeJS-PHP](https://github.com/anil-turk/FreeGPT-NodeJS-PHP)
-3. ❗ Opened issue [#2](https://github.com/anil-turk/FreeGPT-NodeJS-PHP/issues/2) in [anil-turk/FreeGPT-NodeJS-PHP](https://github.com/anil-turk/FreeGPT-NodeJS-PHP)
-4. 🗣 Commented on [#1](https://github.com/anil-turk/FreeGPT-NodeJS-PHP/issues/1#issuecomment-2185726629) in [anil-turk/FreeGPT-NodeJS-PHP](https://github.com/anil-turk/FreeGPT-NodeJS-PHP)
-5. 🔒 Closed issue [#1](https://github.com/anil-turk/FreeGPT-NodeJS-PHP/issues/1) in [anil-turk/FreeGPT-NodeJS-PHP](https://github.com/anil-turk/FreeGPT-NodeJS-PHP)
+1. 🗣 Commented on [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78#issuecomment-2351656621) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
+2. 🗣 Commented on [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78#issuecomment-2351649086) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
+3. 💪 Opened PR [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
+4. 🗣 Commented on [#38](https://github.com/thetrouper/clickcrystals.xyz/pull/38#issuecomment-2304860464) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
+5. 🗣 Commented on [#2](https://github.com/anil-turk/FreeGPT-NodeJS-PHP/issues/2#issuecomment-2204068402) in [anil-turk/FreeGPT-NodeJS-PHP](https://github.com/anil-turk/FreeGPT-NodeJS-PHP)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
