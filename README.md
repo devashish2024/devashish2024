@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/thetrouper/clickcrystals.xyz/pull/49) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
-2. 💪 Opened PR [#48](https://github.com/thetrouper/clickcrystals.xyz/pull/48) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
-3. 🗣 Commented on [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78#issuecomment-2351656621) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
-4. 🗣 Commented on [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78#issuecomment-2351649086) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
-5. 💪 Opened PR [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
+1. 🗣 Commented on [#58776](https://github.com/vercel/next.js/issues/58776#issuecomment-2362075563) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 💪 Opened PR [#49](https://github.com/thetrouper/clickcrystals.xyz/pull/49) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
+3. 💪 Opened PR [#48](https://github.com/thetrouper/clickcrystals.xyz/pull/48) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
+4. 🗣 Commented on [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78#issuecomment-2351656621) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
+5. 🗣 Commented on [#78](https://github.com/clickcrystals-development/ClickCrystals/pull/78#issuecomment-2351649086) in [clickcrystals-development/ClickCrystals](https://github.com/clickcrystals-development/ClickCrystals)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
