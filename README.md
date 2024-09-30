@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/ItziSpyder/ItziSpyder.github.io/pull/5) in [ItziSpyder/ItziSpyder.github.io](https://github.com/ItziSpyder/ItziSpyder.github.io)
-2. 💪 Opened PR [#50](https://github.com/thetrouper/clickcrystals.xyz/pull/50) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
-3. 🗣 Commented on [#16203](https://github.com/is-a-dev/register/pull/16203#issuecomment-2363842248) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 💪 Opened PR [#16203](https://github.com/is-a-dev/register/pull/16203) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 🗣 Commented on [#58776](https://github.com/vercel/next.js/issues/58776#issuecomment-2362075563) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#16341](https://github.com/is-a-dev/register/pull/16341#issuecomment-2383962910) in [is-a-dev/register](https://github.com/is-a-dev/register)
+2. 💪 Opened PR [#5](https://github.com/ItziSpyder/ItziSpyder.github.io/pull/5) in [ItziSpyder/ItziSpyder.github.io](https://github.com/ItziSpyder/ItziSpyder.github.io)
+3. 💪 Opened PR [#50](https://github.com/thetrouper/clickcrystals.xyz/pull/50) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
+4. 🗣 Commented on [#16203](https://github.com/is-a-dev/register/pull/16203#issuecomment-2363842248) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 💪 Opened PR [#16203](https://github.com/is-a-dev/register/pull/16203) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
