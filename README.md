@@ -107,11 +107,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16389](https://github.com/is-a-dev/register/pull/16389#issuecomment-2386295727) in [is-a-dev/register](https://github.com/is-a-dev/register)
-2. 💪 Opened PR [#16389](https://github.com/is-a-dev/register/pull/16389) in [is-a-dev/register](https://github.com/is-a-dev/register)
-3. 🗣 Commented on [#16341](https://github.com/is-a-dev/register/pull/16341#issuecomment-2385594439) in [is-a-dev/register](https://github.com/is-a-dev/register)
-4. 🗣 Commented on [#16341](https://github.com/is-a-dev/register/pull/16341#issuecomment-2383962910) in [is-a-dev/register](https://github.com/is-a-dev/register)
-5. 💪 Opened PR [#5](https://github.com/ItziSpyder/ItziSpyder.github.io/pull/5) in [ItziSpyder/ItziSpyder.github.io](https://github.com/ItziSpyder/ItziSpyder.github.io)
+1. 💪 Opened PR [#51](https://github.com/thetrouper/clickcrystals.xyz/pull/51) in [thetrouper/clickcrystals.xyz](https://github.com/thetrouper/clickcrystals.xyz)
+2. 🗣 Commented on [#16389](https://github.com/is-a-dev/register/pull/16389#issuecomment-2386295727) in [is-a-dev/register](https://github.com/is-a-dev/register)
+3. 💪 Opened PR [#16389](https://github.com/is-a-dev/register/pull/16389) in [is-a-dev/register](https://github.com/is-a-dev/register)
+4. 🗣 Commented on [#16341](https://github.com/is-a-dev/register/pull/16341#issuecomment-2385594439) in [is-a-dev/register](https://github.com/is-a-dev/register)
+5. 🗣 Commented on [#16341](https://github.com/is-a-dev/register/pull/16341#issuecomment-2383962910) in [is-a-dev/register](https://github.com/is-a-dev/register)
 <!--END_SECTION:activity-->
 
 ## Here are some 🦜Parrots😂:
