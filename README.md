@@ -1,16 +1,16 @@
-![Banner](https://github.com/ashishagarwal2023/ashishagarwal2023/blob/main/banner.png?raw=true)
+![Banner](https://github.com/devashish2024/devashish2024/blob/main/banner.png?raw=true)
 
 <h1 align="center"> Hi,<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" > I'm Ashish Agarwal</h1>
 
 > [!TIP]
 > Check out my guestbook and sign it now! [Sign now](https://ashishagr.vercel.app/guestbook) on my portfolio!
 
-<p align="center"><a href="https://ashishagarwal.is-a.dev">Portfolio↗️</a></p>
+<p align="center"><a href="https://ashish.top">Portfolio↗️</a></p>
 <div align="center">
 
-![GitHub Widget](https://github-widgetbox.vercel.app/api/profile?username=ashishagarwal2023&data=followers,repositories,stars,commits&theme=darkmode)
+![GitHub Widget](https://github-widgetbox.vercel.app/api/profile?username=devashish2024&data=followers,repositories,stars,commits&theme=darkmode)
 
-![GitHub followers](https://img.shields.io/github/followers/ashishagarwal2023?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/ashishagarwal2023?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=ashishagarwal2023&style=for-the-badge&logo=github" alt="" />
+![GitHub followers](https://img.shields.io/github/followers/devashish2024?style=for-the-badge&logo=github) ![GitHub User's stars](https://img.shields.io/github/stars/devashish2024?style=for-the-badge&logo=github) <img src="https://komarev.com/ghpvc/?username=devashish2024&style=for-the-badge&logo=github" alt="" />
 <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" />
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
@@ -18,7 +18,7 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
-![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://ashishagarwal2023.github.io)
+![](https://img.shields.io/badge/🔭%20I’m%20curently%20woking%20on%20my-%23E34F26?style=for-the-badge&logoColor=white)[![portfolio](https://img.shields.io/badge/Portfolio%20Website-%231877F2?style=for-the-badge&logoColor=white)](https://devashish2024.github.io)
 
 ![](https://img.shields.io/badge/🌱%20I’m%20currently%20learning-%234ea94b?style=for-the-badge&logoColor=white)![](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -64,19 +64,19 @@
   <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" />
   <br><br>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ashishagarwal2023&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=devashish2024&show_icons=true&hide_title=false&hide_rank=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" />
 
   <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" />
   <br>
   <br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishagarwal2023&theme=midnight-purple&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devashish2024&theme=midnight-purple&hide_border=false" /> 
   <img width="100%" loading="lazy" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp" />
 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishagarwal2023&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devashish2024&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
   
@@ -85,7 +85,7 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishagarwal2023&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="ashishagarwal2023" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devashish2024&layout=compact&theme=radical&column=7&row=1&margin-w=15&margin-h=15" alt="devashish2024" /></a> </p>
 <!--- trophy (end) -->
 
 </p>        
